@@ -1,0 +1,23 @@
+Quartus Prime Archive log --	C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/Codage_FPGA_complet.qarlog
+
+Archive:	C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/Codage_FPGA_complet.qar
+Date:		Mon Aug 10 15:59:43 2026
+Quartus Prime		25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/MotorClassifier.qpf
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/MotorClassifier.qsf
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/MotorClassifier_assignment_defaults.qdf
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/assignment_defaults.qdf
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/package_constants.vhd
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/rx_frame_handler.vhd
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/tb_threshold_classifier.vhd
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/tb_top_motor_classifier.vhd
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/threshold_classifier.vhd
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/top_motor_classifier.vhd
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/uart_rx.vhd
+C:/Users/tiga08/Downloads/MotorClassifier_GEN5001_restored/db/uart_tx.vhd
+	======= Total: 12 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
